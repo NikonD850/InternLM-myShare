@@ -1,5 +1,9 @@
 # InternLM-myShare
 
+基于 InternLM 实现的图像复原模型
+
+书生大模型实战营教程：https://github.com/InternLM/Tutorial
+
 ## Git
 
 遇到的问题：
