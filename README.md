@@ -4,7 +4,7 @@
 
 书生大模型实战营教程：https://github.com/InternLM/Tutorial
 
-![流程图](./restoration.png)
+![流程图](restoration.png)
 
 
 ## Git
